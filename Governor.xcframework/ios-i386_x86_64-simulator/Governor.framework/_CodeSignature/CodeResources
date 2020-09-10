@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Governor-Swift.h</key>
 		<data>
-		kAHAE8YKGUsjpw0Wh8Dsjf3xLYI=
+		UVz1yx8iMwYI44w3FZeukzx4iqc=
 		</data>
 		<key>Headers/Governor.h</key>
 		<data>
@@ -15,30 +15,6 @@
 		<key>Info.plist</key>
 		<data>
 		jIBxfCfHLtJzrhmScmnSa/4CgS4=
-		</data>
-		<key>Modules/Governor.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		HiPCrk8RE77mazVaTReVcPwqPuA=
-		</data>
-		<key>Modules/Governor.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		iLbYoMbu75+R2U6OcPhX/l6D3Wg=
-		</data>
-		<key>Modules/Governor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		I47jNCRj+IbOo8O1FMrxKBeyTqI=
-		</data>
-		<key>Modules/Governor.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		HiPCrk8RE77mazVaTReVcPwqPuA=
-		</data>
-		<key>Modules/Governor.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		iLbYoMbu75+R2U6OcPhX/l6D3Wg=
-		</data>
-		<key>Modules/Governor.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		I47jNCRj+IbOo8O1FMrxKBeyTqI=
 		</data>
 		<key>Modules/Governor.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -103,11 +79,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kAHAE8YKGUsjpw0Wh8Dsjf3xLYI=
+			UVz1yx8iMwYI44w3FZeukzx4iqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Ih326m/6+tudJ8PL/pmG7EYjFAhSMNG8B8BuufHv18=
+			Tj1PyDC+CERLwr35Ey8hAyUamQ+NiP581c52UEiVLu8=
 			</data>
 		</dict>
 		<key>Headers/Governor.h</key>
@@ -119,72 +95,6 @@
 			<key>hash2</key>
 			<data>
 			ArJk9XLq/EGkbK7SkT0taGR79xQSUwHj+S5WnryyJvo=
-			</data>
-		</dict>
-		<key>Modules/Governor.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HiPCrk8RE77mazVaTReVcPwqPuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZhrRpIfIMam75iw0rDNZkXZLmannDUZt8glEJ5b1ipw=
-			</data>
-		</dict>
-		<key>Modules/Governor.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iLbYoMbu75+R2U6OcPhX/l6D3Wg=
-			</data>
-			<key>hash2</key>
-			<data>
-			JR8CWewRD8DoQJMv+qBB0jafTStljTmJhUT4RkSYwVU=
-			</data>
-		</dict>
-		<key>Modules/Governor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			I47jNCRj+IbOo8O1FMrxKBeyTqI=
-			</data>
-			<key>hash2</key>
-			<data>
-			xWZusisa5fHYs2t61kPwjwZaxj9lrCzAdJNP44+rjR0=
-			</data>
-		</dict>
-		<key>Modules/Governor.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HiPCrk8RE77mazVaTReVcPwqPuA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZhrRpIfIMam75iw0rDNZkXZLmannDUZt8glEJ5b1ipw=
-			</data>
-		</dict>
-		<key>Modules/Governor.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			iLbYoMbu75+R2U6OcPhX/l6D3Wg=
-			</data>
-			<key>hash2</key>
-			<data>
-			JR8CWewRD8DoQJMv+qBB0jafTStljTmJhUT4RkSYwVU=
-			</data>
-		</dict>
-		<key>Modules/Governor.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			I47jNCRj+IbOo8O1FMrxKBeyTqI=
-			</data>
-			<key>hash2</key>
-			<data>
-			xWZusisa5fHYs2t61kPwjwZaxj9lrCzAdJNP44+rjR0=
 			</data>
 		</dict>
 		<key>Modules/Governor.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
